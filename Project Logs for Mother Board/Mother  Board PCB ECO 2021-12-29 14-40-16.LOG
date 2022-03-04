@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C140 Old Footprint=C0402 New Footprint=C0603
+Change Component Footprint: Designator=C141 Old Footprint=C0402 New Footprint=C0603
+Change Component Comment : Designator=C140 Old Comment=100nF New Comment=2.2uF
+Change Component Comment : Designator=C141 Old Comment=100nF New Comment=2.2uF
+Added Member To Class: ClassName=Mother Board Main Member=Component LOGO1 LOGO

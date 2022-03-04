@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=DataC_D3 Pin=U13-M1
+Added Pin To Net: NetName=ClkC_D3 Pin=U13-M2
+Added Pin To Net: NetName=ClkA_D1 Pin=U13-N1
+Added Pin To Net: NetName=DataA_D1 Pin=U13-N2
+Added Pin To Net: NetName=INa_D1 Pin=U13-P1
+Added Pin To Net: NetName=INb_D1 Pin=U13-R1
+Added Pin To Net: NetName=INc_D1 Pin=U13-U1
+Change Net Name : Old Net Name=ClkA D1 New Net Name=DataC_D1
+Change Net Name : Old Net Name=ClkC D1 New Net Name=Pos RXD_D1
+Change Net Name : Old Net Name=Pos DIR D1 New Net Name=Pos TXD_D1
+Added Pin To Net: NetName=SDa_D1 Pin=JP2_D1-4
+Added Pin To Net: NetName=SDa_D1 Pin=U13-P2
+Added Net: Name=SDa_D1
+Added Pin To Net: NetName=SDb_D1 Pin=JP2_D1-12
+Added Pin To Net: NetName=SDb_D1 Pin=U13-R2
+Added Net: Name=SDb_D1
+Added Pin To Net: NetName=SDc_D1 Pin=JP2_D1-20
+Added Pin To Net: NetName=SDc_D1 Pin=U13-U2
+Added Net: Name=SDc_D1

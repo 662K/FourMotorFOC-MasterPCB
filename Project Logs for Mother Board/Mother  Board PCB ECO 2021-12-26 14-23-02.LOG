@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C137 Old Footprint=C0402 New Footprint=C0805
+Change Net Name : Old Net Name=Bluetooth KEY New Net Name=NetU16_98
+Change Net Name : Old Net Name=Bluetooth RXD New Net Name=NetU16_96
+Change Net Name : Old Net Name=Bluetooth TXD New Net Name=NetU16_97

@@ -1,0 +1,21 @@
+Added Component: Designator=U10(RJ45-TH_HR913550A)
+Add component (AddParameter): Name = "HR911205C_A"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HR911205C_B"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TXD_P Pin=U10-1
+Added Pin To Net: NetName=TXD_N Pin=U10-2
+Added Pin To Net: NetName=RXD_P Pin=U10-3
+Added Pin To Net: NetName=3V3E Pin=U10-4
+Added Pin To Net: NetName=3V3E Pin=U10-5
+Added Pin To Net: NetName=RXD_N Pin=U10-6
+Added Pin To Net: NetName=GND Pin=U10-8
+Added Pin To Net: NetName=SPEED_LED Pin=U10-9
+Added Pin To Net: NetName=NetR33_2 Pin=U10-10
+Added Pin To Net: NetName=NetR39_2 Pin=U10-11
+Added Pin To Net: NetName=LINK_LED Pin=U10-12
+Added Pin To Net: NetName=EARTH Pin=U10-13
+Added Pin To Net: NetName=EARTH1 Pin=U10-14
+Added Pin To Net: NetName=HOLE1 Pin=U10-15
+Added Net: Name=HOLE1
+Added Pin To Net: NetName=HOLE2 Pin=U10-16
+Added Net: Name=HOLE2
+Added Member To Class: ClassName=Ethernet Member=Component U10 HR913550a

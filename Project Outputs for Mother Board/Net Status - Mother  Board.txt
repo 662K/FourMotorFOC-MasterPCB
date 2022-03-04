@@ -1,0 +1,170 @@
+Net Status Report
+Filename     : D:\Zbw\Graduation Project\Hardware\Mother Board Alpha v1.0\Mother  Board.PcbDoc
+Date         : 2021-12-23
+Time         : 11:49:51
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    12V, Signal Layers Only, 600.265mils
+    3V3, Signal Layers Only, 600.265mils
+    3V3E, Signal Layers Only, 0mils
+    3V6, Signal Layers Only, 0mils
+    485_D1_N, Signal Layers Only, 447.905mils
+    485_D1_P, Signal Layers Only, 437.167mils
+    485_D2_N, Signal Layers Only, 0mils
+    485_D2_P, Signal Layers Only, 0mils
+    485_D3_N, Signal Layers Only, 0mils
+    485_D3_P, Signal Layers Only, 0mils
+    485_D4_N, Signal Layers Only, 0mils
+    485_D4_P, Signal Layers Only, 0mils
+    5V, Signal Layers Only, 492.164mils
+    Bluetooth KEY, Signal Layers Only, 0mils
+    Bluetooth RXD, Signal Layers Only, 0mils
+    Bluetooth TXD, Signal Layers Only, 0mils
+    Bluetooth_LED, Signal Layers Only, 0mils
+    ClkA_D1, Signal Layers Only, 0mils
+    ClkA_D2, Signal Layers Only, 0mils
+    ClkA_D3, Signal Layers Only, 0mils
+    ClkA_D4, Signal Layers Only, 0mils
+    ClkC_D1, Signal Layers Only, 0mils
+    ClkC_D2, Signal Layers Only, 0mils
+    ClkC_D3, Signal Layers Only, 0mils
+    ClkC_D4, Signal Layers Only, 0mils
+    ClkVIN, Signal Layers Only, 0mils
+    DataA_D1, Signal Layers Only, 0mils
+    DataA_D2, Signal Layers Only, 0mils
+    DataA_D3, Signal Layers Only, 0mils
+    DataA_D4, Signal Layers Only, 0mils
+    DataC_D1, Signal Layers Only, 0mils
+    DataC_D2, Signal Layers Only, 0mils
+    DataC_D3, Signal Layers Only, 0mils
+    DataC_D4, Signal Layers Only, 0mils
+    DataVIN, Signal Layers Only, 0mils
+    EARTH, Signal Layers Only, 0mils
+    EARTH1_D1, Signal Layers Only, 0mils
+    EARTH1_D2, Signal Layers Only, 290.469mils
+    EARTH1_D3, Signal Layers Only, 319.841mils
+    EARTH1_D4, Signal Layers Only, 0mils
+    EARTH2_D1, Signal Layers Only, 294.418mils
+    EARTH2_D2, Signal Layers Only, 0mils
+    EARTH2_D3, Signal Layers Only, 0mils
+    EARTH2_D4, Signal Layers Only, 199.919mils
+    ETH MDC, Signal Layers Only, 0mils
+    ETH MDIO, Signal Layers Only, 0mils
+    ETH RESET, Signal Layers Only, 0mils
+    GND, Signal Layers Only, 805.463mils
+    IMU SCLK, Signal Layers Only, 0mils
+    IMU SDI, Signal Layers Only, 0mils
+    IMU SDO, Signal Layers Only, 0mils
+    IMU nCS BMP280, Signal Layers Only, 0mils
+    IMU nCS MPU9250, Signal Layers Only, 0mils
+    INa_D1, Signal Layers Only, 0mils
+    INa_D2, Signal Layers Only, 0mils
+    INa_D3, Signal Layers Only, 0mils
+    INa_D4, Signal Layers Only, 0mils
+    INb_D1, Signal Layers Only, 0mils
+    INb_D2, Signal Layers Only, 0mils
+    INb_D3, Signal Layers Only, 0mils
+    INb_D4, Signal Layers Only, 0mils
+    INc_D1, Signal Layers Only, 0mils
+    INc_D2, Signal Layers Only, 0mils
+    INc_D3, Signal Layers Only, 0mils
+    INc_D4, Signal Layers Only, 0mils
+    LCD BLK, Signal Layers Only, 0mils
+    LCD CS, Signal Layers Only, 0mils
+    LCD DC, Signal Layers Only, 0mils
+    LCD RES, Signal Layers Only, 0mils
+    LCD SDA, Signal Layers Only, 0mils
+    LCD SDL, Signal Layers Only, 0mils
+    LINK_LED, Signal Layers Only, 0mils
+    Motor PE_D1, Signal Layers Only, 477.48mils
+    Motor PE_D3, Signal Layers Only, 384.961mils
+    NetC10_1, Signal Layers Only, 0mils
+    NetC11_2, Signal Layers Only, 0mils
+    NetC12_2, Signal Layers Only, 0mils
+    NetC14_1, Signal Layers Only, 0mils
+    NetC15_1, Signal Layers Only, 0mils
+    NetC19_1, Signal Layers Only, 0mils
+    NetC19_2, Signal Layers Only, 0mils
+    NetC26_2, Signal Layers Only, 0mils
+    NetC31_2, Signal Layers Only, 0mils
+    NetC34_1, Signal Layers Only, 0mils
+    NetC35_1, Signal Layers Only, 0mils
+    NetC36_1, Signal Layers Only, 0mils
+    NetC3_1, Signal Layers Only, 0mils
+    NetC3_2, Signal Layers Only, 0mils
+    NetC40_1, Signal Layers Only, 0mils
+    NetC9_1, Signal Layers Only, 0mils
+    NetC9_2, Signal Layers Only, 0mils
+    NetD2_A, Signal Layers Only, 0mils
+    NetLED1_A, Signal Layers Only, 0mils
+    NetM1_G, Signal Layers Only, 0mils
+    NetM2_G, Signal Layers Only, 0mils
+    NetM2_S, Signal Layers Only, 0mils
+    NetR10_2, Signal Layers Only, 0mils
+    NetR11_1, Signal Layers Only, 0mils
+    NetR16_1, Signal Layers Only, 0mils
+    NetR18_1, Signal Layers Only, 0mils
+    NetR20_1, Signal Layers Only, 0mils
+    NetR24_2, Signal Layers Only, 0mils
+    NetR2_D1_2, Signal Layers Only, 66.654mils
+    NetR2_D2_2, Signal Layers Only, 66.654mils
+    NetR2_D3_2, Signal Layers Only, 66.654mils
+    NetR2_D4_2, Signal Layers Only, 66.654mils
+    NetR30_2, Signal Layers Only, 0mils
+    NetR33_2, Signal Layers Only, 0mils
+    NetR35_2, Signal Layers Only, 0mils
+    NetR3_D1_2, Signal Layers Only, 158.704mils
+    NetR3_D2_2, Signal Layers Only, 158.704mils
+    NetR3_D3_2, Signal Layers Only, 158.704mils
+    NetR3_D4_2, Signal Layers Only, 158.704mils
+    NetR5_D1_2, Signal Layers Only, 66.654mils
+    NetR5_D2_2, Signal Layers Only, 66.654mils
+    NetR5_D3_2, Signal Layers Only, 66.654mils
+    NetR5_D4_2, Signal Layers Only, 66.654mils
+    NetR7_2, Signal Layers Only, 0mils
+    PGND, Signal Layers Only, 0mils
+    Pos DIR_D1, Signal Layers Only, 0mils
+    Pos DIR_D2, Signal Layers Only, 0mils
+    Pos DIR_D3, Signal Layers Only, 0mils
+    Pos DIR_D4, Signal Layers Only, 0mils
+    Pos RXD_D1, Signal Layers Only, 0mils
+    Pos RXD_D2, Signal Layers Only, 0mils
+    Pos RXD_D3, Signal Layers Only, 0mils
+    Pos RXD_D4, Signal Layers Only, 0mils
+    Pos TXD_D1, Signal Layers Only, 0mils
+    Pos TXD_D2, Signal Layers Only, 0mils
+    Pos TXD_D3, Signal Layers Only, 0mils
+    Pos TXD_D4, Signal Layers Only, 0mils
+    RMII CRS DV, Signal Layers Only, 0mils
+    RMII REF CLK, Signal Layers Only, 0mils
+    RMII RXD0, Signal Layers Only, 0mils
+    RMII RXD1, Signal Layers Only, 0mils
+    RMII TXD0, Signal Layers Only, 0mils
+    RMII TXD1, Signal Layers Only, 0mils
+    RMII TXEN, Signal Layers Only, 0mils
+    RXD_N, Signal Layers Only, 0mils
+    RXD_P, Signal Layers Only, 0mils
+    SDa_D1, Signal Layers Only, 0mils
+    SDa_D2, Signal Layers Only, 0mils
+    SDa_D3, Signal Layers Only, 0mils
+    SDa_D4, Signal Layers Only, 0mils
+    SDb_D1, Signal Layers Only, 0mils
+    SDb_D2, Signal Layers Only, 0mils
+    SDb_D3, Signal Layers Only, 0mils
+    SDb_D4, Signal Layers Only, 0mils
+    SDc_D1, Signal Layers Only, 0mils
+    SDc_D2, Signal Layers Only, 0mils
+    SDc_D3, Signal Layers Only, 0mils
+    SDc_D4, Signal Layers Only, 0mils
+    SPEED_LED, Signal Layers Only, 0mils
+    TXD_N, Signal Layers Only, 0mils
+    TXD_P, Signal Layers Only, 0mils
+    USB RXD, Signal Layers Only, 0mils
+    USB TXD, Signal Layers Only, 0mils
+    USB_5V, Signal Layers Only, 0mils
+    USB_D_N, Signal Layers Only, 0mils
+    USB_D_P, Signal Layers Only, 0mils
+    Vin, Signal Layers Only, 0mils
+    Vpower, Signal Layers Only, 9340.726mils
+count : 162

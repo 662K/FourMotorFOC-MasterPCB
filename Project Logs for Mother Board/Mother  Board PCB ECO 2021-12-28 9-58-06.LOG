@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NRF CE Pin=U15-1
+Added Pin To Net: NetName=NRF IRQ Pin=U15-141
+Added Pin To Net: NetName=NRF CSN Pin=U15-142

@@ -1,0 +1,23 @@
+Added Component: Designator=H2_D1(¶¨Î»¿× ¦µ3 1)
+Added Component: Designator=JP3(XT60PM)
+Added Component: Designator=JP4(XT60PM)
+Added Pin To Net: NetName=PGND Pin=H2_D1-1
+Added Pin To Net: NetName=PGND Pin=H2_D1-1
+Added Pin To Net: NetName=PGND Pin=H2_D1-1
+Added Pin To Net: NetName=PGND Pin=H2_D1-1
+Added Pin To Net: NetName=PGND Pin=H2_D1-1
+Added Pin To Net: NetName=PGND Pin=H2_D1-1
+Added Pin To Net: NetName=PGND Pin=H2_D1-1
+Added Pin To Net: NetName=PGND Pin=H2_D1-1
+Added Pin To Net: NetName=PGND Pin=H2_D1-1
+Added Pin To Net: NetName=PGND Pin=JP3-1
+Added Pin To Net: NetName=PGND Pin=JP3-1
+Added Pin To Net: NetName=5V Pin=JP3-2
+Added Pin To Net: NetName=5V Pin=JP3-2
+Added Pin To Net: NetName=PGND Pin=JP4-1
+Added Pin To Net: NetName=PGND Pin=JP4-1
+Added Pin To Net: NetName=Vpower Pin=JP4-2
+Added Pin To Net: NetName=Vpower Pin=JP4-2
+Added Member To Class: ClassName=D1 Member=Component H2_D1 (H2) HOLE
+Added Member To Class: ClassName=Power Member=Component JP3 XT60PM
+Added Member To Class: ClassName=Power Member=Component JP4 XT60PM

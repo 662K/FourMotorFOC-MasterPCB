@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=C116-1
+Removed Pin From Net: NetName=1V2 Pin=C116-2
+Removed Member From Class: ClassName=FPGA Member=C116

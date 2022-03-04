@@ -1,0 +1,96 @@
+Added Component: Designator=R7_D1(R0603)
+Added Component: Designator=R7_D2(R0603)
+Added Component: Designator=R7_D3(R0603)
+Added Component: Designator=R7_D4(R0603)
+Added Component: Designator=R8_D1(R0603)
+Added Component: Designator=R8_D2(R0603)
+Added Component: Designator=R8_D3(R0603)
+Added Component: Designator=R8_D4(R0603)
+Added Component: Designator=R9_D1(R0603)
+Added Component: Designator=R9_D2(R0603)
+Added Component: Designator=R9_D3(R0603)
+Added Component: Designator=R9_D4(R0603)
+Added Component: Designator=R10_D1(R0603)
+Added Component: Designator=R10_D2(R0603)
+Added Component: Designator=R10_D3(R0603)
+Added Component: Designator=R10_D4(R0603)
+Added Component: Designator=R11_D1(R0603)
+Added Component: Designator=R11_D2(R0603)
+Added Component: Designator=R11_D3(R0603)
+Added Component: Designator=R11_D4(R0603)
+Added Component: Designator=R12_D1(R0603)
+Added Component: Designator=R12_D2(R0603)
+Added Component: Designator=R12_D3(R0603)
+Added Component: Designator=R12_D4(R0603)
+Added Pin To Net: NetName=485_D1_N Pin=R7_D1-1
+Added Pin To Net: NetName=GND Pin=R7_D1-2
+Added Pin To Net: NetName=485_D2_N Pin=R7_D2-1
+Added Pin To Net: NetName=GND Pin=R7_D2-2
+Added Pin To Net: NetName=485_D3_N Pin=R7_D3-1
+Added Pin To Net: NetName=GND Pin=R7_D3-2
+Added Pin To Net: NetName=485_D4_N Pin=R7_D4-1
+Added Pin To Net: NetName=GND Pin=R7_D4-2
+Added Pin To Net: NetName=Pos RXD_D1 Pin=R8_D1-1
+Added Pin To Net: NetName=NetR8_D1_2 Pin=R8_D1-2
+Added Pin To Net: NetName=Pos RXD_D2 Pin=R8_D2-1
+Added Pin To Net: NetName=NetR8_D2_2 Pin=R8_D2-2
+Added Pin To Net: NetName=Pos RXD_D3 Pin=R8_D3-1
+Added Pin To Net: NetName=NetR8_D3_2 Pin=R8_D3-2
+Added Pin To Net: NetName=Pos RXD_D4 Pin=R8_D4-1
+Added Pin To Net: NetName=NetR8_D4_2 Pin=R8_D4-2
+Added Pin To Net: NetName=Pos DIR_D1 Pin=R9_D1-1
+Added Pin To Net: NetName=NetR9_D1_2 Pin=R9_D1-2
+Added Pin To Net: NetName=Pos DIR_D2 Pin=R9_D2-1
+Added Pin To Net: NetName=NetR9_D2_2 Pin=R9_D2-2
+Added Pin To Net: NetName=Pos DIR_D3 Pin=R9_D3-1
+Added Pin To Net: NetName=NetR9_D3_2 Pin=R9_D3-2
+Added Pin To Net: NetName=Pos DIR_D4 Pin=R9_D4-1
+Added Pin To Net: NetName=NetR9_D4_2 Pin=R9_D4-2
+Added Pin To Net: NetName=485_D1_P Pin=R10_D1-1
+Added Pin To Net: NetName=485_D1_N Pin=R10_D1-2
+Added Pin To Net: NetName=485_D2_P Pin=R10_D2-1
+Added Pin To Net: NetName=485_D2_N Pin=R10_D2-2
+Added Pin To Net: NetName=485_D3_P Pin=R10_D3-1
+Added Pin To Net: NetName=485_D3_N Pin=R10_D3-2
+Added Pin To Net: NetName=485_D4_P Pin=R10_D4-1
+Added Pin To Net: NetName=485_D4_N Pin=R10_D4-2
+Added Pin To Net: NetName=Pos TXD_D1 Pin=R11_D1-1
+Added Pin To Net: NetName=NetR11_D1_2 Pin=R11_D1-2
+Added Pin To Net: NetName=Pos TXD_D2 Pin=R11_D2-1
+Added Pin To Net: NetName=NetR11_D2_2 Pin=R11_D2-2
+Added Pin To Net: NetName=Pos TXD_D3 Pin=R11_D3-1
+Added Pin To Net: NetName=NetR11_D3_2 Pin=R11_D3-2
+Added Pin To Net: NetName=Pos TXD_D4 Pin=R11_D4-1
+Added Pin To Net: NetName=NetR11_D4_2 Pin=R11_D4-2
+Added Pin To Net: NetName=5V Pin=R12_D1-1
+Added Pin To Net: NetName=485_D1_P Pin=R12_D1-2
+Added Pin To Net: NetName=5V Pin=R12_D2-1
+Added Pin To Net: NetName=485_D2_P Pin=R12_D2-2
+Added Pin To Net: NetName=5V Pin=R12_D3-1
+Added Pin To Net: NetName=485_D3_P Pin=R12_D3-2
+Added Pin To Net: NetName=5V Pin=R12_D4-1
+Added Pin To Net: NetName=485_D4_P Pin=R12_D4-2
+Added Member To Class: ClassName=D1 Member=Component R7_D1 (R7) 1.2K
+Added Member To Class: ClassName=D2 Member=Component R7_D2 (R7) 1.2K
+Added Member To Class: ClassName=D3 Member=Component R7_D3 (R7) 1.2K
+Added Member To Class: ClassName=D4 Member=Component R7_D4 (R7) 1.2K
+Added Member To Class: ClassName=D1 Member=Component R8_D1 (R8) 100次
+Added Member To Class: ClassName=D2 Member=Component R8_D2 (R8) 100次
+Added Member To Class: ClassName=D3 Member=Component R8_D3 (R8) 100次
+Added Member To Class: ClassName=D4 Member=Component R8_D4 (R8) 100次
+Added Member To Class: ClassName=D1 Member=Component R9_D1 (R9) 100次
+Added Member To Class: ClassName=D2 Member=Component R9_D2 (R9) 100次
+Added Member To Class: ClassName=D3 Member=Component R9_D3 (R9) 100次
+Added Member To Class: ClassName=D4 Member=Component R9_D4 (R9) 100次
+Added Member To Class: ClassName=D1 Member=Component R10_D1 (R10) 120次
+Added Member To Class: ClassName=D2 Member=Component R10_D2 (R10) 120次
+Added Member To Class: ClassName=D3 Member=Component R10_D3 (R10) 120次
+Added Member To Class: ClassName=D4 Member=Component R10_D4 (R10) 120次
+Added Member To Class: ClassName=D1 Member=Component R11_D1 (R11) 100次
+Added Member To Class: ClassName=D2 Member=Component R11_D2 (R11) 100次
+Added Member To Class: ClassName=D3 Member=Component R11_D3 (R11) 100次
+Added Member To Class: ClassName=D4 Member=Component R11_D4 (R11) 100次
+Added Member To Class: ClassName=D1 Member=Component R12_D1 (R12) 1.2K
+Added Member To Class: ClassName=D2 Member=Component R12_D2 (R12) 1.2K
+Added Member To Class: ClassName=D3 Member=Component R12_D3 (R12) 1.2K
+Added Member To Class: ClassName=D4 Member=Component R12_D4 (R12) 1.2K

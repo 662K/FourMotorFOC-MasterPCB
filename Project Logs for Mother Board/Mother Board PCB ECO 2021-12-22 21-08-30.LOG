@@ -1,0 +1,71 @@
+Added Component: Designator=C1(C0603)
+Added Component: Designator=C40(C0603)
+Added Component: Designator=C41(C0603)
+Added Component: Designator=C42(C0603)
+Added Component: Designator=LED1(LED 0603Y)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R3(R0603)
+Added Component: Designator=SW1(TSW SMD-4*4*1.5)
+Added Component: Designator=U1(MSOP10)
+Added Component: Designator=U1(HC-42)
+Added Component: Designator=USB1(USB-B/S_A)
+Add component (AddParameter): Name = "BOM名称"; Value = "USB-B型母接口"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=USB_5V Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=USB_5V Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=GND Pin=LED1-K
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=Bluetooth KEY Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Pin To Net: NetName=NetLED1_A Pin=R3-1
+Added Pin To Net: NetName=Bluetooth_LED Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=SW1-1
+Added Pin To Net: NetName=NetR1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetR1_2 Pin=SW1-3
+Added Pin To Net: NetName=3V3 Pin=SW1-4
+Added Pin To Net: NetName=Bluetooth TXD Pin=U1-1
+Added Pin To Net: NetName=USB_D_P Pin=U1-1
+Added Pin To Net: NetName=Bluetooth RXD Pin=U1-2
+Added Pin To Net: NetName=USB_D_N Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=USB_5V Pin=U1-7
+Added Pin To Net: NetName=USB TXD Pin=U1-8
+Added Pin To Net: NetName=USB RXD Pin=U1-9
+Added Pin To Net: NetName=NetC40_1 Pin=U1-10
+Added Pin To Net: NetName=3V3 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=Bluetooth_LED Pin=U1-16
+Added Pin To Net: NetName=Bluetooth KEY Pin=U1-18
+Added Pin To Net: NetName=USB_D_P Pin=USB1-D+
+Added Pin To Net: NetName=USB_D_N Pin=USB1-D-
+Added Pin To Net: NetName=GND Pin=USB1-G
+Added Pin To Net: NetName=GND Pin=USB1-G
+Added Pin To Net: NetName=GND Pin=USB1-G
+Added Pin To Net: NetName=USB_5V Pin=USB1-V
+Added Member To Class: ClassName=Bluetooth Member=Component C1 1uF
+Added Member To Class: ClassName=USB Member=Component C40 100nF
+Added Member To Class: ClassName=USB Member=Component C41 100nF
+Added Member To Class: ClassName=USB Member=Component C42 10uF
+Added Member To Class: ClassName=Bluetooth Member=Component LED1 黄色
+Added Member To Class: ClassName=Bluetooth Member=Component R1 10K
+Added Member To Class: ClassName=Bluetooth Member=Component R2 220
+Added Member To Class: ClassName=Bluetooth Member=Component R3 2.2K
+Added Member To Class: ClassName=Bluetooth Member=Component SW1 4x4x1.5-3.0
+Added Member To Class: ClassName=Bluetooth Member=Component U1 HC-42
+Added Member To Class: ClassName=USB Member=Component U1 CH340E
+Added Member To Class: ClassName=USB Member=Component USB1 USB
+Added Room: Name=Bluetooth
+Added Room: Name=USB

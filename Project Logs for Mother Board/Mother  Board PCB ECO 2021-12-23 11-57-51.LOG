@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PGND Pin=JP8-1
+Removed Pin From Net: NetName=Vpower Pin=JP8-2
+Added Component: Designator=JP3(XT30PW-M)
+Added Pin To Net: NetName=5V Pin=JP3-1
+Added Pin To Net: NetName=PGND Pin=JP3-2
+Added Pin To Net: NetName=Vpower Pin=JP8-1
+Added Pin To Net: NetName=PGND Pin=JP8-2

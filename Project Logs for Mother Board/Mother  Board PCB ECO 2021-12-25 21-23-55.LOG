@@ -1,0 +1,151 @@
+Removed Member From Class: ClassName=STM32 Member=C19
+Removed Member From Class: ClassName=STM32 Member=C26
+Removed Member From Class: ClassName=Power Member=C39
+Removed Member From Class: ClassName=Power Member=C41
+Removed Member From Class: ClassName=IMU Member=C43
+Removed Member From Class: ClassName=Power Member=C43
+Removed Member From Class: ClassName=IMU Member=C45
+Removed Member From Class: ClassName=IMU Member=C47
+Removed Member From Class: ClassName=Ethernet Member=C59
+Removed Member From Class: ClassName=USB Member=C59
+Removed Member From Class: ClassName=Ethernet Member=C64
+Removed Member From Class: ClassName=USB Member=C64
+Removed Member From Class: ClassName=Ethernet Member=C65
+Removed Member From Class: ClassName=USB Member=C65
+Removed Member From Class: ClassName=FPGA Member=C126
+Removed Member From Class: ClassName=FPGA Member=C132
+Removed Member From Class: ClassName=FPGA Member=C133
+Removed Member From Class: ClassName=FPGA Member=C135
+Removed Member From Class: ClassName=Power Member=R8
+Removed Member From Class: ClassName=Power Member=R36
+Removed Member From Class: ClassName=Power Member=R37
+Removed Member From Class: ClassName=Power Member=R38
+Removed Member From Class: ClassName=Power Member=R39
+Removed Member From Class: ClassName=Power Member=R40
+Removed Member From Class: ClassName=Power Member=R41
+Removed Member From Class: ClassName=Power Member=R42
+Removed Member From Class: ClassName=Power Member=R43
+Removed Member From Class: ClassName=Power Member=R44
+Removed Member From Class: ClassName=Power Member=R45
+Removed Member From Class: ClassName=Power Member=R46
+Removed Member From Class: ClassName=FPGA Member=R61
+Removed Member From Class: ClassName=FPGA Member=SW2
+Removed Member From Class: ClassName=Power Member=U10
+Removed Member From Class: ClassName=Power Member=U11
+Removed Member From Class: ClassName=IMU Member=U12
+Removed Member From Class: ClassName=Power Member=U12
+Removed Member From Class: ClassName=IMU Member=U13
+Change Component Footprint: Designator=JP3 Old Footprint=XT30PW-M New Footprint=XT60PM
+Change Component Footprint: Designator=JP4 Old Footprint=XT30PW-M New Footprint=XT60PM
+Change Component Comment : Designator=JP3 Old Comment=XT_0__ New Comment=XT60PM
+Change Component Comment : Designator=JP4 Old Comment=XT_0__ New Comment=XT60PM
+Added Member To Class: ClassName=Power Member=Component C20 22uF
+Added Member To Class: ClassName=Power Member=Component C21 22uF
+Added Member To Class: ClassName=Power Member=Component C22 22uF
+Added Member To Class: ClassName=Power Member=Component C23 22uF
+Added Member To Class: ClassName=Power Member=Component C24 22uF
+Added Member To Class: ClassName=Power Member=Component C25 100nF
+Added Member To Class: ClassName=Power Member=Component C27 100nF
+Added Member To Class: ClassName=Power Member=Component C29 100nF
+Added Member To Class: ClassName=Power Member=Component C31 4.7uF
+Added Member To Class: ClassName=Power Member=Component C33 100nF
+Added Member To Class: ClassName=Power Member=Component C35 100nF
+Added Member To Class: ClassName=Power Member=Component C36 2.2uF
+Added Member To Class: ClassName=IMU Member=Component C37 100nF
+Added Member To Class: ClassName=IMU Member=Component C38 100nF
+Added Member To Class: ClassName=IMU Member=Component C39 100nF
+Added Member To Class: ClassName=IMU Member=Component C40 10nF
+Added Member To Class: ClassName=Ethernet Member=Component C42 10pF
+Added Member To Class: ClassName=Ethernet Member=Component C44 10pF
+Added Member To Class: ClassName=Ethernet Member=Component C46 22nF
+Added Member To Class: ClassName=Ethernet Member=Component C48 10uF
+Added Member To Class: ClassName=Ethernet Member=Component C50 22pF
+Added Member To Class: ClassName=Ethernet Member=Component C51 10uF
+Added Member To Class: ClassName=Ethernet Member=Component C52 100nF
+Added Member To Class: ClassName=Ethernet Member=Component C53 100nF
+Added Member To Class: ClassName=USB Member=Component C55 100nF
+Added Member To Class: ClassName=USB Member=Component C56 100nF
+Added Member To Class: ClassName=USB Member=Component C57 10uF
+Added Member To Class: ClassName=FPGA Member=Component C58 100nF
+Added Member To Class: ClassName=FPGA Member=Component C60 100nF
+Added Member To Class: ClassName=FPGA Member=Component C61 100nF
+Added Member To Class: ClassName=FPGA Member=Component C63 100nF
+Added Member To Class: ClassName=FPGA Member=Component C66 100nF
+Added Member To Class: ClassName=FPGA Member=Component C70 100nF
+Added Member To Class: ClassName=FPGA Member=Component C71 100nF
+Added Member To Class: ClassName=FPGA Member=Component C73 100nF
+Added Member To Class: ClassName=FPGA Member=Component C76 100nF
+Added Member To Class: ClassName=FPGA Member=Component C78 100nF
+Added Member To Class: ClassName=FPGA Member=Component C79 100nF
+Added Member To Class: ClassName=FPGA Member=Component C80 100nF
+Added Member To Class: ClassName=FPGA Member=Component C81 100nF
+Added Member To Class: ClassName=FPGA Member=Component C83 100nF
+Added Member To Class: ClassName=FPGA Member=Component C88 100nF
+Added Member To Class: ClassName=FPGA Member=Component C90 100nF
+Added Member To Class: ClassName=FPGA Member=Component C91 100nF
+Added Member To Class: ClassName=FPGA Member=Component C93 100nF
+Added Member To Class: ClassName=FPGA Member=Component C94 100nF
+Added Member To Class: ClassName=FPGA Member=Component C96 100nF
+Added Member To Class: ClassName=FPGA Member=Component C99 100nF
+Added Member To Class: ClassName=FPGA Member=Component C101 100nF
+Added Member To Class: ClassName=FPGA Member=Component C102 100nF
+Added Member To Class: ClassName=FPGA Member=Component C103 100nF
+Added Member To Class: ClassName=FPGA Member=Component C104 100nF
+Added Member To Class: ClassName=FPGA Member=Component C109 100nF
+Added Member To Class: ClassName=FPGA Member=Component C114 100nF
+Added Member To Class: ClassName=FPGA Member=Component C115 100nF
+Added Member To Class: ClassName=FPGA Member=Component C116 100nF
+Added Member To Class: ClassName=FPGA Member=Component C119 100nF
+Added Member To Class: ClassName=FPGA Member=Component C121 100nF
+Added Member To Class: ClassName=FPGA Member=Component C122 100nF
+Added Member To Class: ClassName=FPGA Member=Component C123 100nF
+Added Member To Class: ClassName=FPGA Member=Component C124 100nF
+Added Member To Class: ClassName=STM32 Member=Component C125 100nF
+Added Member To Class: ClassName=STM32 Member=Component C127 100nF
+Added Member To Class: ClassName=STM32 Member=Component C128 100nF
+Added Member To Class: ClassName=STM32 Member=Component C129 100nF
+Added Member To Class: ClassName=STM32 Member=Component C131 100nF
+Added Member To Class: ClassName=STM32 Member=Component C137 10uF
+Added Member To Class: ClassName=STM32 Member=Component C138 100nF
+Added Member To Class: ClassName=STM32 Member=Component C140 100nF
+Added Member To Class: ClassName=STM32 Member=Component C142 22pF
+Added Member To Class: ClassName=Mother Board Main Member=Component H3 HOLE
+Added Member To Class: ClassName=Power Member=Component L2 4.7uH
+Added Member To Class: ClassName=Power Member=Component R10 200K
+Added Member To Class: ClassName=Power Member=Component R13 1.21K
+Added Member To Class: ClassName=Power Member=Component R15 12.4K
+Added Member To Class: ClassName=Power Member=Component R16 100K
+Added Member To Class: ClassName=Power Member=Component R17 100K
+Added Member To Class: ClassName=Power Member=Component R18 100K
+Added Member To Class: ClassName=Power Member=Component R19 40.2K
+Added Member To Class: ClassName=Power Member=Component R20 40.2K
+Added Member To Class: ClassName=Power Member=Component R21 20.5K
+Added Member To Class: ClassName=Power Member=Component R22 40.2K
+Added Member To Class: ClassName=Power Member=Component R23 59K
+Added Member To Class: ClassName=Power Member=Component R24 120K
+Added Member To Class: ClassName=Power Member=Component R25 13K
+Added Member To Class: ClassName=Power Member=Component R26 19.1K
+Added Member To Class: ClassName=Power Member=Component R27 41.2K
+Added Member To Class: ClassName=Power Member=Component R28 1.8M
+Added Member To Class: ClassName=Power Member=Component R30 12次
+Added Member To Class: ClassName=Power Member=Component R31 499K
+Added Member To Class: ClassName=Power Member=Component R32 499K
+Added Member To Class: ClassName=Power Member=Component R33 10K
+Added Member To Class: ClassName=Power Member=Component R34 12次
+Added Member To Class: ClassName=Ethernet Member=Component R35 510
+Added Member To Class: ClassName=FPGA Member=Component R47 10K
+Added Member To Class: ClassName=FPGA Member=Component R48 1K
+Added Member To Class: ClassName=FPGA Member=Component R52 10K
+Added Member To Class: ClassName=FPGA Member=Component R53 10K
+Added Member To Class: ClassName=FPGA Member=Component R56 10K
+Added Member To Class: ClassName=FPGA Member=Component R58 10K
+Added Member To Class: ClassName=FPGA Member=Component R60 33次
+Added Member To Class: ClassName=STM32 Member=Component R62 0次
+Added Member To Class: ClassName=STM32 Member=Component R64 10K
+Added Member To Class: ClassName=FPGA Member=Component SW1 4x4x1.5-3.0
+Added Member To Class: ClassName=Power Member=Component U4 MP1471A
+Added Member To Class: ClassName=Power Member=Component U5 MP1471A
+Added Member To Class: ClassName=Power Member=Component U6 MP1471A
+Added Member To Class: ClassName=Power Member=Component U7 TPS61041
+Added Member To Class: ClassName=IMU Member=Component U9 BMP280
+Added Member To Class: ClassName=IMU Member=Component U10 MPU9250

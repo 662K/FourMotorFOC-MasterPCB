@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=Vpower Pin=JP2_D1-1
+Removed Pin From Net: NetName=Vpower Pin=JP2_D2-1
+Removed Pin From Net: NetName=Vpower Pin=JP2_D3-1
+Removed Pin From Net: NetName=Vpower Pin=JP2_D4-1
+Removed Pin From Net: NetName=PGND Pin=JP3_D1-1
+Removed Pin From Net: NetName=PGND Pin=JP3_D2-1
+Removed Pin From Net: NetName=PGND Pin=JP3_D3-1
+Removed Pin From Net: NetName=PGND Pin=JP3_D4-1
+Removed Member From Class: ClassName=D1 Member=JP2_D1
+Removed Member From Class: ClassName=D2 Member=JP2_D2
+Removed Member From Class: ClassName=D3 Member=JP2_D3
+Removed Member From Class: ClassName=D4 Member=JP2_D4
+Removed Member From Class: ClassName=D1 Member=JP3_D1
+Removed Member From Class: ClassName=D2 Member=JP3_D2
+Removed Member From Class: ClassName=D3 Member=JP3_D3
+Removed Member From Class: ClassName=D4 Member=JP3_D4
+Added Component: Designator=H7_D1(定位孔 Φ3 1)
+Added Component: Designator=H7_D2(定位孔 Φ3 1)
+Added Component: Designator=H7_D3(定位孔 Φ3 1)
+Added Component: Designator=H7_D4(定位孔 Φ3 1)
+Added Component: Designator=H8_D1(定位孔 Φ3 1)
+Added Component: Designator=H8_D2(定位孔 Φ3 1)
+Added Component: Designator=H8_D3(定位孔 Φ3 1)
+Added Component: Designator=H8_D4(定位孔 Φ3 1)
+Added Pin To Net: NetName=Vpower Pin=H7_D1-1
+Added Pin To Net: NetName=Vpower Pin=H7_D1-1
+Added Pin To Net: NetName=Vpower Pin=H7_D1-1
+Added Pin To Net: NetName=Vpower Pin=H7_D1-1
+Added Pin To Net: NetName=Vpower Pin=H7_D1-1
+Added Pin To Net: NetName=Vpower Pin=H7_D1-1
+Added Pin To Net: NetName=Vpower Pin=H7_D1-1
+Added Pin To Net: NetName=Vpower Pin=H7_D1-1
+Added Pin To Net: NetName=Vpower Pin=H7_D1-1
+Added Pin To Net: NetName=Vpower Pin=H7_D2-1
+Added Pin To Net: NetName=Vpower Pin=H7_D2-1
+Added Pin To Net: NetName=Vpower Pin=H7_D2-1
+Added Pin To Net: NetName=Vpower Pin=H7_D2-1
+Added Pin To Net: NetName=Vpower Pin=H7_D2-1
+Added Pin To Net: NetName=Vpower Pin=H7_D2-1
+Added Pin To Net: NetName=Vpower Pin=H7_D2-1
+Added Pin To Net: NetName=Vpower Pin=H7_D2-1
+Added Pin To Net: NetName=Vpower Pin=H7_D2-1
+Added Pin To Net: NetName=Vpower Pin=H7_D3-1
+Added Pin To Net: NetName=Vpower Pin=H7_D3-1
+Added Pin To Net: NetName=Vpower Pin=H7_D3-1
+Added Pin To Net: NetName=Vpower Pin=H7_D3-1
+Added Pin To Net: NetName=Vpower Pin=H7_D3-1
+Added Pin To Net: NetName=Vpower Pin=H7_D3-1
+Added Pin To Net: NetName=Vpower Pin=H7_D3-1
+Added Pin To Net: NetName=Vpower Pin=H7_D3-1
+Added Pin To Net: NetName=Vpower Pin=H7_D3-1
+Added Pin To Net: NetName=Vpower Pin=H7_D4-1
+Added Pin To Net: NetName=Vpower Pin=H7_D4-1
+Added Pin To Net: NetName=Vpower Pin=H7_D4-1
+Added Pin To Net: NetName=Vpower Pin=H7_D4-1
+Added Pin To Net: NetName=Vpower Pin=H7_D4-1
+Added Pin To Net: NetName=Vpower Pin=H7_D4-1
+Added Pin To Net: NetName=Vpower Pin=H7_D4-1
+Added Pin To Net: NetName=Vpower Pin=H7_D4-1
+Added Pin To Net: NetName=Vpower Pin=H7_D4-1
+Added Pin To Net: NetName=PGND Pin=H8_D1-1
+Added Pin To Net: NetName=PGND Pin=H8_D1-1
+Added Pin To Net: NetName=PGND Pin=H8_D1-1
+Added Pin To Net: NetName=PGND Pin=H8_D1-1
+Added Pin To Net: NetName=PGND Pin=H8_D1-1
+Added Pin To Net: NetName=PGND Pin=H8_D1-1
+Added Pin To Net: NetName=PGND Pin=H8_D1-1
+Added Pin To Net: NetName=PGND Pin=H8_D1-1
+Added Pin To Net: NetName=PGND Pin=H8_D1-1
+Added Pin To Net: NetName=PGND Pin=H8_D2-1
+Added Pin To Net: NetName=PGND Pin=H8_D2-1
+Added Pin To Net: NetName=PGND Pin=H8_D2-1
+Added Pin To Net: NetName=PGND Pin=H8_D2-1
+Added Pin To Net: NetName=PGND Pin=H8_D2-1
+Added Pin To Net: NetName=PGND Pin=H8_D2-1
+Added Pin To Net: NetName=PGND Pin=H8_D2-1
+Added Pin To Net: NetName=PGND Pin=H8_D2-1
+Added Pin To Net: NetName=PGND Pin=H8_D2-1
+Added Pin To Net: NetName=PGND Pin=H8_D3-1
+Added Pin To Net: NetName=PGND Pin=H8_D3-1
+Added Pin To Net: NetName=PGND Pin=H8_D3-1
+Added Pin To Net: NetName=PGND Pin=H8_D3-1
+Added Pin To Net: NetName=PGND Pin=H8_D3-1
+Added Pin To Net: NetName=PGND Pin=H8_D3-1
+Added Pin To Net: NetName=PGND Pin=H8_D3-1
+Added Pin To Net: NetName=PGND Pin=H8_D3-1
+Added Pin To Net: NetName=PGND Pin=H8_D3-1
+Added Pin To Net: NetName=PGND Pin=H8_D4-1
+Added Pin To Net: NetName=PGND Pin=H8_D4-1
+Added Pin To Net: NetName=PGND Pin=H8_D4-1
+Added Pin To Net: NetName=PGND Pin=H8_D4-1
+Added Pin To Net: NetName=PGND Pin=H8_D4-1
+Added Pin To Net: NetName=PGND Pin=H8_D4-1
+Added Pin To Net: NetName=PGND Pin=H8_D4-1
+Added Pin To Net: NetName=PGND Pin=H8_D4-1
+Added Pin To Net: NetName=PGND Pin=H8_D4-1
+Added Member To Class: ClassName=D1 Member=Component H7_D1 (H7) HOLE
+Added Member To Class: ClassName=D2 Member=Component H7_D2 (H7) HOLE
+Added Member To Class: ClassName=D3 Member=Component H7_D3 (H7) HOLE
+Added Member To Class: ClassName=D4 Member=Component H7_D4 (H7) HOLE
+Added Member To Class: ClassName=D1 Member=Component H8_D1 (H8) HOLE
+Added Member To Class: ClassName=D2 Member=Component H8_D2 (H8) HOLE
+Added Member To Class: ClassName=D3 Member=Component H8_D3 (H8) HOLE
+Added Member To Class: ClassName=D4 Member=Component H8_D4 (H8) HOLE

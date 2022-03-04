@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Pos RXD_D4 Pin=U13-B21
+Added Pin To Net: NetName=Pos DIR_D4 Pin=U13-B22
+Added Pin To Net: NetName=Pos TXD_D4 Pin=U13-C21

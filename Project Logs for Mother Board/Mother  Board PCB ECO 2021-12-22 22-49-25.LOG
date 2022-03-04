@@ -1,0 +1,34 @@
+Change Net Name : Old Net Name=EARTH_D3 New Net Name=EARTH1_D3
+Change Net Name : Old Net Name=EARTH_D4 New Net Name=EARTH1_D4
+Added Pin To Net: NetName=EARTH1_D1 Pin=JP6_D1-7
+Added Net: Name=EARTH1_D1
+Added Pin To Net: NetName=EARTH1_D2 Pin=JP6_D2-7
+Added Net: Name=EARTH1_D2
+Added Pin To Net: NetName=EARTH2_D1 Pin=JP6_D1-8
+Added Net: Name=EARTH2_D1
+Added Pin To Net: NetName=EARTH2_D2 Pin=JP6_D2-8
+Added Net: Name=EARTH2_D2
+Added Pin To Net: NetName=EARTH2_D3 Pin=JP6_D3-8
+Added Net: Name=EARTH2_D3
+Added Pin To Net: NetName=EARTH2_D4 Pin=JP6_D4-8
+Added Net: Name=EARTH2_D4
+Added Pin To Net: NetName=EARTH D1 Pin=H7-1
+Added Pin To Net: NetName=EARTH D1 Pin=H7-1
+Added Pin To Net: NetName=EARTH D1 Pin=H7-1
+Added Pin To Net: NetName=EARTH D1 Pin=H7-1
+Added Pin To Net: NetName=EARTH D1 Pin=H7-1
+Added Pin To Net: NetName=EARTH D1 Pin=H7-1
+Added Pin To Net: NetName=EARTH D1 Pin=H7-1
+Added Pin To Net: NetName=EARTH D1 Pin=H7-1
+Added Pin To Net: NetName=EARTH D1 Pin=H7-1
+Added Net: Name=EARTH D1
+Added Pin To Net: NetName=EARTH D2 Pin=H3-1
+Added Pin To Net: NetName=EARTH D2 Pin=H3-1
+Added Pin To Net: NetName=EARTH D2 Pin=H3-1
+Added Pin To Net: NetName=EARTH D2 Pin=H3-1
+Added Pin To Net: NetName=EARTH D2 Pin=H3-1
+Added Pin To Net: NetName=EARTH D2 Pin=H3-1
+Added Pin To Net: NetName=EARTH D2 Pin=H3-1
+Added Pin To Net: NetName=EARTH D2 Pin=H3-1
+Added Pin To Net: NetName=EARTH D2 Pin=H3-1
+Added Net: Name=EARTH D2

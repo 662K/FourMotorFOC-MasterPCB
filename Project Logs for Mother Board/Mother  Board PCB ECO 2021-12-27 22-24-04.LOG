@@ -1,0 +1,175 @@
+Added Component: Designator=U15(LQFP144 20X20_L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "2x12-bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "144-Pin Low Profile Quad Flat Package, 20 x 20 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP144"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 4, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F407ZET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-11903-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "2215229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "46W2203"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "87T3795"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "511-STM32F407ZET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) max (V)"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU15_1 Pin=U15-1
+Added Pin To Net: NetName=NetU15_2 Pin=U15-2
+Added Pin To Net: NetName=NetU15_3 Pin=U15-3
+Added Pin To Net: NetName=NetU15_4 Pin=U15-4
+Added Pin To Net: NetName=NetU15_5 Pin=U15-5
+Added Pin To Net: NetName=3V3 Pin=U15-6
+Added Pin To Net: NetName=NetU15_7 Pin=U15-7
+Added Pin To Net: NetName=FSMC_A0 Pin=U15-10
+Added Pin To Net: NetName=FSMC_A1 Pin=U15-11
+Added Pin To Net: NetName=FSMC_A2 Pin=U15-12
+Added Pin To Net: NetName=FSMC_A3 Pin=U15-13
+Added Pin To Net: NetName=FSMC_A4 Pin=U15-14
+Added Pin To Net: NetName=FSMC_A5 Pin=U15-15
+Added Pin To Net: NetName=GND Pin=U15-16
+Added Pin To Net: NetName=3V3 Pin=U15-17
+Added Pin To Net: NetName=NetU15_18 Pin=U15-18
+Added Pin To Net: NetName=NetU15_19 Pin=U15-19
+Added Pin To Net: NetName=NetU15_20 Pin=U15-20
+Added Pin To Net: NetName=NetU15_21 Pin=U15-21
+Added Pin To Net: NetName=NetU15_22 Pin=U15-22
+Added Pin To Net: NetName=OSC_IN Pin=U15-23
+Added Pin To Net: NetName=OSC_OUT Pin=U15-24
+Added Pin To Net: NetName=STM32_RST Pin=U15-25
+Added Pin To Net: NetName=NetU15_26 Pin=U15-26
+Added Pin To Net: NetName=ETH MDC Pin=U15-27
+Added Pin To Net: NetName=NetU15_28 Pin=U15-28
+Added Pin To Net: NetName=NetU15_29 Pin=U15-29
+Added Pin To Net: NetName=3V3 Pin=U15-30
+Added Pin To Net: NetName=GND Pin=U15-31
+Added Pin To Net: NetName=3V3 Pin=U15-32
+Added Pin To Net: NetName=NetC138_1 Pin=U15-33
+Added Pin To Net: NetName=NetU15_34 Pin=U15-34
+Added Pin To Net: NetName=RMII REF CLK Pin=U15-35
+Added Pin To Net: NetName=ETH MDIO Pin=U15-36
+Added Pin To Net: NetName=NetU15_37 Pin=U15-37
+Added Pin To Net: NetName=GND Pin=U15-38
+Added Pin To Net: NetName=3V3 Pin=U15-39
+Added Pin To Net: NetName=NetU15_40 Pin=U15-40
+Added Pin To Net: NetName=NetU15_41 Pin=U15-41
+Added Pin To Net: NetName=NetU15_42 Pin=U15-42
+Added Pin To Net: NetName=RMII CRS DV Pin=U15-43
+Added Pin To Net: NetName=RMII RXD0 Pin=U15-44
+Added Pin To Net: NetName=RMII RXD1 Pin=U15-45
+Added Pin To Net: NetName=NetU15_46 Pin=U15-46
+Added Pin To Net: NetName=NetU15_47 Pin=U15-47
+Added Pin To Net: NetName=BOOT1 Pin=U15-48
+Added Pin To Net: NetName=NetU15_49 Pin=U15-49
+Added Pin To Net: NetName=FSMC_A6 Pin=U15-50
+Added Pin To Net: NetName=GND Pin=U15-51
+Added Pin To Net: NetName=3V3 Pin=U15-52
+Added Pin To Net: NetName=FSMC_A7 Pin=U15-53
+Added Pin To Net: NetName=FSMC_A8 Pin=U15-54
+Added Pin To Net: NetName=FSMC_A9 Pin=U15-55
+Added Pin To Net: NetName=FSMC_A10 Pin=U15-56
+Added Pin To Net: NetName=FSMC_A11 Pin=U15-57
+Added Pin To Net: NetName=FSMC_D4 Pin=U15-58
+Added Pin To Net: NetName=FSMC_D5 Pin=U15-59
+Added Pin To Net: NetName=FSMC_D6 Pin=U15-60
+Added Pin To Net: NetName=GND Pin=U15-61
+Added Pin To Net: NetName=3V3 Pin=U15-62
+Added Pin To Net: NetName=FSMC_D7 Pin=U15-63
+Added Pin To Net: NetName=FSMC_D8 Pin=U15-64
+Added Pin To Net: NetName=FSMC_D9 Pin=U15-65
+Added Pin To Net: NetName=FSMC_D10 Pin=U15-66
+Added Pin To Net: NetName=FSMC_D11 Pin=U15-67
+Added Pin To Net: NetName=FSMC_D12 Pin=U15-68
+Added Pin To Net: NetName=NetU15_69 Pin=U15-69
+Added Pin To Net: NetName=NetU15_70 Pin=U15-70
+Added Pin To Net: NetName=NetC141_2 Pin=U15-71
+Added Pin To Net: NetName=3V3 Pin=U15-72
+Added Pin To Net: NetName=NetU15_73 Pin=U15-73
+Added Pin To Net: NetName=NetU15_74 Pin=U15-74
+Added Pin To Net: NetName=NetU15_75 Pin=U15-75
+Added Pin To Net: NetName=NetU15_76 Pin=U15-76
+Added Pin To Net: NetName=FSMC_D13 Pin=U15-77
+Added Pin To Net: NetName=FSMC_D14 Pin=U15-78
+Added Pin To Net: NetName=FSMC_D15 Pin=U15-79
+Added Pin To Net: NetName=NetU15_80 Pin=U15-80
+Added Pin To Net: NetName=NetU15_81 Pin=U15-81
+Added Pin To Net: NetName=NetU15_82 Pin=U15-82
+Added Pin To Net: NetName=GND Pin=U15-83
+Added Pin To Net: NetName=3V3 Pin=U15-84
+Added Pin To Net: NetName=FSMC_D0 Pin=U15-85
+Added Pin To Net: NetName=FSMC_D1 Pin=U15-86
+Added Pin To Net: NetName=NetU15_87 Pin=U15-87
+Added Pin To Net: NetName=NetU15_88 Pin=U15-88
+Added Pin To Net: NetName=NetU15_89 Pin=U15-89
+Added Pin To Net: NetName=NetU15_90 Pin=U15-90
+Added Pin To Net: NetName=NetU15_91 Pin=U15-91
+Added Pin To Net: NetName=NetU15_92 Pin=U15-92
+Added Pin To Net: NetName=NetU15_93 Pin=U15-93
+Added Pin To Net: NetName=GND Pin=U15-94
+Added Pin To Net: NetName=3V3 Pin=U15-95
+Added Pin To Net: NetName=NetU15_96 Pin=U15-96
+Added Pin To Net: NetName=NetU15_97 Pin=U15-97
+Added Pin To Net: NetName=NetU15_98 Pin=U15-98
+Added Pin To Net: NetName=NetU15_99 Pin=U15-99
+Added Pin To Net: NetName=NetU15_100 Pin=U15-100
+Added Pin To Net: NetName=USB RXD Pin=U15-101
+Added Pin To Net: NetName=USB TXD Pin=U15-102
+Added Pin To Net: NetName=NetU15_103 Pin=U15-103
+Added Pin To Net: NetName=NetU15_104 Pin=U15-104
+Added Pin To Net: NetName=SWDIO Pin=U15-105
+Added Pin To Net: NetName=NetC140_2 Pin=U15-106
+Added Pin To Net: NetName=GND Pin=U15-107
+Added Pin To Net: NetName=3V3 Pin=U15-108
+Added Pin To Net: NetName=SWCLK Pin=U15-109
+Added Pin To Net: NetName=NetU15_111 Pin=U15-111
+Added Pin To Net: NetName=NetU15_112 Pin=U15-112
+Added Pin To Net: NetName=NetU15_113 Pin=U15-113
+Added Pin To Net: NetName=FSMC_D2 Pin=U15-114
+Added Pin To Net: NetName=FSMC_D3 Pin=U15-115
+Added Pin To Net: NetName=NetU15_116 Pin=U15-116
+Added Pin To Net: NetName=ETH RESET Pin=U15-117
+Added Pin To Net: NetName=FSMC_NOE Pin=U15-118
+Added Pin To Net: NetName=FSMC_NWE Pin=U15-119
+Added Pin To Net: NetName=GND Pin=U15-120
+Added Pin To Net: NetName=3V3 Pin=U15-121
+Added Pin To Net: NetName=NetU15_122 Pin=U15-122
+Added Pin To Net: NetName=NetU15_123 Pin=U15-123
+Added Pin To Net: NetName=FSMC_NE2 Pin=U15-124
+Added Pin To Net: NetName=NetU15_125 Pin=U15-125
+Added Pin To Net: NetName=RMII TXEN Pin=U15-126
+Added Pin To Net: NetName=NetU15_127 Pin=U15-127
+Added Pin To Net: NetName=RMII TXD0 Pin=U15-128
+Added Pin To Net: NetName=RMII TXD1 Pin=U15-129
+Added Pin To Net: NetName=GND Pin=U15-130
+Added Pin To Net: NetName=3V3 Pin=U15-131
+Added Pin To Net: NetName=LCD RES Pin=U15-132
+Added Pin To Net: NetName=LCD SDL Pin=U15-133
+Added Pin To Net: NetName=LCD DC Pin=U15-134
+Added Pin To Net: NetName=LCD SDA Pin=U15-135
+Added Pin To Net: NetName=LCD BLK Pin=U15-136
+Added Pin To Net: NetName=LCD CS Pin=U15-137
+Added Pin To Net: NetName=BOOT0 Pin=U15-138
+Added Pin To Net: NetName=NetU15_139 Pin=U15-139
+Added Pin To Net: NetName=NetU15_140 Pin=U15-140
+Added Pin To Net: NetName=NetU15_141 Pin=U15-141
+Added Pin To Net: NetName=NetU15_142 Pin=U15-142
+Added Pin To Net: NetName=3V3 Pin=U15-143
+Added Pin To Net: NetName=3V3 Pin=U15-144
+Added Member To Class: ClassName=STM32 Member=Component U15 STM32F407ZET6

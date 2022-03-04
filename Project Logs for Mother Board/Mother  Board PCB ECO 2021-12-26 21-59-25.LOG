@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=FSMC_D2 Pin=U13-AA5
+Added Pin To Net: NetName=FSMC_NOE Pin=U13-AA6
+Added Pin To Net: NetName=FSMC_A0 Pin=U13-AA7
+Added Pin To Net: NetName=FSMC_A2 Pin=U13-AA8
+Added Pin To Net: NetName=FSMC_A4 Pin=U13-AA9
+Added Pin To Net: NetName=FSMC_D3 Pin=U13-AB5
+Added Pin To Net: NetName=FSMC_NWE Pin=U13-AB6
+Added Pin To Net: NetName=FSMC_A1 Pin=U13-AB7
+Added Pin To Net: NetName=FSMC_A3 Pin=U13-AB8
+Added Pin To Net: NetName=FSMC_A5 Pin=U13-AB9

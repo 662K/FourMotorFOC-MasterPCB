@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ClkA_D4 Pin=U13-M21
+Removed Pin From Net: NetName=DataA_D4 Pin=U13-M22
+Added Pin To Net: NetName=DataA_D4 Pin=U13-M21
+Added Pin To Net: NetName=ClkA_D4 Pin=U13-M22

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=IMU SCLK Pin=U13-F1
+Added Pin To Net: NetName=IMU nCS MPU9250 Pin=U13-F2
+Added Pin To Net: NetName=IMU nCS BMP280 Pin=U13-H1
+Added Pin To Net: NetName=IMU SDI Pin=U13-H2
+Added Pin To Net: NetName=IMU SDO Pin=U13-J2

@@ -1,0 +1,13 @@
+Added Component: Designator=JP?(XT60PM)
+Added Component: Designator=JP?(XT60PM)
+Added Pin To Net: NetName=PGND Pin=JP?-1
+Added Pin To Net: NetName=PGND Pin=JP?-1
+Added Pin To Net: NetName=PGND Pin=JP?-1
+Added Pin To Net: NetName=PGND Pin=JP?-1
+Added Pin To Net: NetName=5V Pin=JP?-2
+Added Pin To Net: NetName=5V Pin=JP?-2
+Added Pin To Net: NetName=Vpower Pin=JP?-2
+Added Pin To Net: NetName=Vpower Pin=JP?-2
+Added Member To Class: ClassName=D1 Member=Component H2_D1 (H2) HOLE
+Added Member To Class: ClassName=Power Member=Component JP? XT60PM
+Added Member To Class: ClassName=Power Member=Component JP? XT60PM

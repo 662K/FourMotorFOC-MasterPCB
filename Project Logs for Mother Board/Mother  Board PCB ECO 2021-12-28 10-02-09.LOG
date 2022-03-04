@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NRF CE Pin=U15-1
+Removed Pin From Net: NetName=NRF IRQ Pin=U15-141
+Removed Pin From Net: NetName=NRF CSN Pin=U15-142
+Added Pin To Net: NetName=NRF CSN Pin=U15-1
+Added Pin To Net: NetName=NRF CE Pin=U15-2
+Added Pin To Net: NetName=NRF IRQ Pin=U15-142
+Added Pin To Net: NetName=NetU15_141 Pin=U15-141
+Added Net: Name=NetU15_141

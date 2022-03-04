@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U8 Old Footprint=RJ45-TH_HR913550A New Footprint=CONN12_USB1888250_TEC
+Change Component Comment : Designator=U8 Old Comment=HR913550a New Comment=1888250-1
+Change component parameters: Designator = "U8" ("U8"); Footprint = "RJ45-TH_HR913550A"; UniqueID = "\DEOZAEWF\AAMEQAOC" ("\DEOZAEWF\AAMEQAOC")

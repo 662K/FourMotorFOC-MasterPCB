@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=FPGA_RST Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=STM32_RST Pin=SW2-1
+Removed Pin From Net: NetName=GND Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW2-3
+Removed Pin From Net: NetName=STM32_RST Pin=SW2-4
+Removed Member From Class: ClassName=FPGA Member=SW1
+Removed Member From Class: ClassName=STM32 Member=SW2
+Added Pin To Net: NetName=FPGA_RST Pin=C58-2
+Added Pin To Net: NetName=FPGA_RST Pin=R47-2

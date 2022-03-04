@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FPGA_RST Pin=U13-AB10
+Added Pin To Net: NetName=FPGA_RST Pin=U13-A3
+Added Pin To Net: NetName=NetU13_AB10 Pin=U13-AB10
+Added Net: Name=NetU13_AB10

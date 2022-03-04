@@ -1,0 +1,20 @@
+Added Component: Designator=NT1(Net-Tie_10mil)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-04-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Added Alternate PartNumber and Alternate Manufacturer parameters to appropriate components."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolCreator"; Value = "codlsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2009-07-01"; VariantName = "[No Variations]"
+Added Component: Designator=NT2(Net-Tie_10mil)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2013-04-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Added Alternate PartNumber and Alternate Manufacturer parameters to appropriate components."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountType"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolCreator"; Value = "codlsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolVersion"; Value = "2009-07-01"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=NT1-1
+Added Pin To Net: NetName=GND Pin=NT1-2
+Added Pin To Net: NetName=5V_P Pin=NT2-1
+Added Pin To Net: NetName=5V Pin=NT2-2
+Added Member To Class: ClassName=Power Member=Component NT1 Net-Tie
+Added Member To Class: ClassName=Power Member=Component NT2 Net-Tie

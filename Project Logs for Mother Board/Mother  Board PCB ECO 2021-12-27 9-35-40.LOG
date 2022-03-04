@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PGND Pin=H2_D1-
+Change Component Footprint: Designator=U10 Old Footprint=CONN12_USB1888250_TEC New Footprint=RJ45-TH_HR913550A
+Change Component Comment : Designator=U10 Old Comment=1888250-1 New Comment=HR913550a
+Change component parameters: Designator = "U10" ("U10"); Footprint = "CONN12_USB1888250_TEC"; UniqueID = "\DEOZAEWF\CHBYREGQ" ("\DEOZAEWF\CHBYREGQ")
+Change component parameters (AddParameter): Name = "HR911205C_A"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HR911205C_B"; Value = ""; VariantName = "[No Variations]"

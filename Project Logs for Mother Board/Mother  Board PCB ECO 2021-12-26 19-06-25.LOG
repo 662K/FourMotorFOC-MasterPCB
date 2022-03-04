@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=INc_D3 Pin=U13-P3
+Removed Pin From Net: NetName=SDc_D3 Pin=U13-P4
+Removed Pin From Net: NetName=INb_D3 Pin=U13-R3
+Removed Pin From Net: NetName=SDb_D3 Pin=U13-R4
+Removed Pin From Net: NetName=INa_D3 Pin=U13-T3
+Removed Pin From Net: NetName=SDa_D3 Pin=U13-T4
+Added Pin To Net: NetName=SDc_D3 Pin=U13-P3
+Added Pin To Net: NetName=INc_D3 Pin=U13-P4
+Added Pin To Net: NetName=SDb_D3 Pin=U13-R3
+Added Pin To Net: NetName=INb_D3 Pin=U13-R4
+Added Pin To Net: NetName=SDa_D3 Pin=U13-T3
+Added Pin To Net: NetName=INa_D3 Pin=U13-T4

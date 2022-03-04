@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3V3 Pin=R62-2
+Removed Member From Class: ClassName=STM32 Member=R62
+Added Pin To Net: NetName=3V3 Pin=U16-143

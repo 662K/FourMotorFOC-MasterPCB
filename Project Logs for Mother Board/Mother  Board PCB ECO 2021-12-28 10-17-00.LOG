@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=EARTH1 Pin=U10-13
+Added Pin To Net: NetName=Pos DIR_D3 Pin=U13-B1
+Added Pin To Net: NetName=Pos TXD_D3 Pin=U13-B2
+Added Pin To Net: NetName=Pos RXD_D3 Pin=U13-C2

@@ -1,0 +1,12 @@
+Added Component: Designator=U2(NRF24L01+)
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=NRF CE Pin=U2-2
+Added Pin To Net: NetName=NRF CSN Pin=U2-3
+Added Pin To Net: NetName=NRF SCK Pin=U2-4
+Added Pin To Net: NetName=NRF MOSI Pin=U2-5
+Added Pin To Net: NetName=NRF MISO Pin=U2-6
+Added Pin To Net: NetName=NRF IRQ Pin=U2-7
+Added Pin To Net: NetName=NRF_GND Pin=U2-8
+Added Pin To Net: NetName=NRF_GND Pin=U2-9
+Added Pin To Net: NetName=NRF_GND Pin=U2-10
+Added Member To Class: ClassName=NRF24L01 Member=Component U2 NRF24L01+

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=RST Pin=SW1-1
+Removed Pin From Net: NetName=RST Pin=U14-E16
+Change Net Name : Old Net Name=RST New Net Name=NetC58_2
+Added Pin To Net: NetName=FPGA_RST Pin=SW1-1
+Added Net: Name=FPGA_RST
+Added Pin To Net: NetName=NetU14_E16 Pin=U14-E16
+Added Net: Name=NetU14_E16
+Added Pin To Net: NetName=RST Pin=U16-25
+Added Net: Name=RST
+Added Pin To Net: NetName=STM32_RST Pin=C143-2
+Added Pin To Net: NetName=STM32_RST Pin=R65-2
+Added Pin To Net: NetName=STM32_RST Pin=SW2-1
+Added Pin To Net: NetName=STM32_RST Pin=SW2-4
+Added Net: Name=STM32_RST
+Added Room: Name=FPGA

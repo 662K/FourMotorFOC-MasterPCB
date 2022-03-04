@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=ClkA_D4 Pin=U13-M21
+Added Pin To Net: NetName=DataA_D4 Pin=U13-M22
+Added Pin To Net: NetName=ClkC_D2 Pin=U13-N21
+Added Pin To Net: NetName=DataC_D2 Pin=U13-N22

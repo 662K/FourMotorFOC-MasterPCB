@@ -1,0 +1,16 @@
+Added Component: Designator=USB1(USB-C_16P)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Shenzhen Kinghelm Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "KH-TYPE-C-16P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C709357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KH-TYPE-C-16P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=USB1-A1
+Added Pin To Net: NetName=USB_5V Pin=USB1-A4
+Added Pin To Net: NetName=USB_D_P Pin=USB1-A6
+Added Pin To Net: NetName=USB_D_N Pin=USB1-A7
+Added Pin To Net: NetName=USB_5V Pin=USB1-B9
+Added Pin To Net: NetName=GND Pin=USB1-B12
+Added Member To Class: ClassName=USB Member=Component USB1 TYPE-C-16P

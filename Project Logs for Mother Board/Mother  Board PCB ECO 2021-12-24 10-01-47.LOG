@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=EARTH2_D4 Pin=H8-1
+Removed Pin From Net: NetName=EARTH2_D4 Pin=H8-1
+Removed Pin From Net: NetName=EARTH2_D4 Pin=H8-1
+Removed Pin From Net: NetName=EARTH2_D4 Pin=H8-1
+Removed Pin From Net: NetName=EARTH2_D4 Pin=H8-1
+Removed Pin From Net: NetName=EARTH2_D4 Pin=H8-1
+Removed Pin From Net: NetName=EARTH2_D4 Pin=H8-1
+Removed Pin From Net: NetName=EARTH2_D4 Pin=H8-1
+Removed Pin From Net: NetName=EARTH2_D4 Pin=H8-1
+Removed Member From Class: ClassName=D1 Member=JP7_D1
+Removed Member From Class: ClassName=D2 Member=JP7_D2
+Removed Member From Class: ClassName=D3 Member=JP7_D3
+Removed Member From Class: ClassName=D4 Member=JP7_D4
+Added Pin To Net: NetName=EARTH2 D4 Pin=H8-1
+Added Pin To Net: NetName=EARTH2 D4 Pin=H8-1
+Added Pin To Net: NetName=EARTH2 D4 Pin=H8-1
+Added Pin To Net: NetName=EARTH2 D4 Pin=H8-1
+Added Pin To Net: NetName=EARTH2 D4 Pin=H8-1
+Added Pin To Net: NetName=EARTH2 D4 Pin=H8-1
+Added Pin To Net: NetName=EARTH2 D4 Pin=H8-1
+Added Pin To Net: NetName=EARTH2 D4 Pin=H8-1
+Added Pin To Net: NetName=EARTH2 D4 Pin=H8-1
+Added Net: Name=EARTH2 D4

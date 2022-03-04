@@ -1,0 +1,48 @@
+Added Component: Designator=LED1(LED 0603G L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED 0603G L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED 0603G L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED 0603G L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R66(R0603)
+Added Component: Designator=R67(R0603)
+Added Component: Designator=R68(R0603)
+Added Component: Designator=R69(R0603)
+Added Pin To Net: NetName=GND Pin=LED1-K
+Added Pin To Net: NetName=GND Pin=LED2-K
+Added Pin To Net: NetName=GND Pin=LED3-K
+Added Pin To Net: NetName=GND Pin=LED4-K
+Added Pin To Net: NetName=Vpower Pin=R66-1
+Added Pin To Net: NetName=12V Pin=R67-1
+Added Pin To Net: NetName=5V Pin=R68-1
+Added Pin To Net: NetName=3V3 Pin=R69-1
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=R66-2
+Added Net: Name=NetLED1_A
+Added Pin To Net: NetName=NetLED2_A Pin=LED2-A
+Added Pin To Net: NetName=NetLED2_A Pin=R67-2
+Added Net: Name=NetLED2_A
+Added Pin To Net: NetName=NetLED3_A Pin=LED3-A
+Added Pin To Net: NetName=NetLED3_A Pin=R68-2
+Added Net: Name=NetLED3_A
+Added Pin To Net: NetName=NetLED4_A Pin=LED4-A
+Added Pin To Net: NetName=NetLED4_A Pin=R69-2
+Added Net: Name=NetLED4_A
+Added Member To Class: ClassName=Power Member=Component LED1 绿色
+Added Member To Class: ClassName=Power Member=Component LED2 绿色
+Added Member To Class: ClassName=Power Member=Component LED3 绿色
+Added Member To Class: ClassName=Power Member=Component LED4 绿色
+Added Member To Class: ClassName=Power Member=Component R66 47K
+Added Member To Class: ClassName=Power Member=Component R67 10K
+Added Member To Class: ClassName=Power Member=Component R68 2.4K
+Added Member To Class: ClassName=Power Member=Component R69 1K

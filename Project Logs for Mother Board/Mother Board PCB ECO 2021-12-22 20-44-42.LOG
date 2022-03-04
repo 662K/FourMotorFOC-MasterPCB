@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IMU SDI Pin=JP10-31
+Added Pin To Net: NetName=IMU SDI Pin=JP10-29
+Added Pin To Net: NetName=IMU SDO Pin=JP10-31
+Added Pin To Net: NetName=IMU SDO Pin=U6-5
+Added Pin To Net: NetName=IMU SDO Pin=U7-9
+Added Net: Name=IMU SDO

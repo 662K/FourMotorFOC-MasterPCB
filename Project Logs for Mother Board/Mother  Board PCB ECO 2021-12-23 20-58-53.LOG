@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=USB_D_P Pin=USB1-D+
+Removed Pin From Net: NetName=USB_D_N Pin=USB1-D-
+Removed Pin From Net: NetName=GND Pin=USB1-G
+Removed Pin From Net: NetName=GND Pin=USB1-G
+Removed Pin From Net: NetName=GND Pin=USB1-G
+Removed Pin From Net: NetName=USB_5V Pin=USB1-V
+Change Component Footprint: Designator=USB1 Old Footprint=USB-B/S_A New Footprint=USB-C_16P
+Change Component Comment : Designator=USB1 Old Comment=USB New Comment=TYPE-C-16P
+Change component parameters: Designator = "USB1" ("USB1"); Footprint = "USB-B/S_A"; UniqueID = "\JGJIGRCK\MNJUGHFG" ("\JGJIGRCK\MNJUGHFG")
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "Shenzhen Kinghelm Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "KH-TYPE-C-16P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C709357"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "KH-TYPE-C-16P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=USB1-A1
+Added Pin To Net: NetName=USB_5V Pin=USB1-A4
+Added Pin To Net: NetName=USB_D_P Pin=USB1-A6
+Added Pin To Net: NetName=USB_D_N Pin=USB1-A7
+Added Pin To Net: NetName=USB_5V Pin=USB1-B9
+Added Pin To Net: NetName=GND Pin=USB1-B12

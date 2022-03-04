@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=SDc_D2 Pin=U13-P21
+Added Pin To Net: NetName=INc_D2 Pin=U13-P22
+Added Pin To Net: NetName=SDb_D2 Pin=U13-R21
+Added Pin To Net: NetName=INb_D2 Pin=U13-R22
+Added Pin To Net: NetName=SDa_D2 Pin=U13-U21
+Added Pin To Net: NetName=INa_D2 Pin=U13-U22
+Added Pin To Net: NetName=ClkA_D2 Pin=U13-V21
+Added Pin To Net: NetName=DataA_D2 Pin=U13-V22
+Added Pin To Net: NetName=ClkC_D4 Pin=U13-W21
+Added Pin To Net: NetName=DataC_D4 Pin=U13-W22

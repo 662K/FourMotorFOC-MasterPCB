@@ -1,0 +1,94 @@
+Removed Member From Class: ClassName=IMU Member=C35
+Removed Member From Class: ClassName=FPGA Member=C126
+Removed Member From Class: ClassName=Power Member=C145
+Removed Member From Class: ClassName=STM32 Member=C146
+Removed Member From Class: ClassName=NRF24L01 Member=R60
+Removed Member From Class: ClassName=FPGA Member=U12
+Removed Member From Class: ClassName=NRF24L01 Member=U15
+Removed Member From Class: ClassName=Power Member=U15
+Added Component: Designator=C147(C0402)
+Added Pin To Net: NetName=GND Pin=C147-1
+Added Pin To Net: NetName=1V2 Pin=C147-2
+Added Member To Class: ClassName=Power Member=Component C2 1uF
+Added Member To Class: ClassName=Power Member=Component C4 47uF
+Added Member To Class: ClassName=Power Member=Component C6 47uF
+Added Member To Class: ClassName=Power Member=Component C8 6.8nF
+Added Member To Class: ClassName=Power Member=Component C10 10nF
+Added Member To Class: ClassName=Power Member=Component C13 1uF
+Added Member To Class: ClassName=Power Member=Component C16 1uF
+Added Member To Class: ClassName=Power Member=Component C18 22uF
+Added Member To Class: ClassName=Power Member=Component C21 22uF
+Added Member To Class: ClassName=Power Member=Component C24 100nF
+Added Member To Class: ClassName=Power Member=Component C26 100nF
+Added Member To Class: ClassName=Power Member=Component C28 100nF
+Added Member To Class: ClassName=Power Member=Component C30 4.7uF
+Added Member To Class: ClassName=Power Member=Component C32 100nF
+Added Member To Class: ClassName=Power Member=Component C34 100nF
+Added Member To Class: ClassName=IMU Member=Component C36 100nF
+Added Member To Class: ClassName=IMU Member=Component C38 100nF
+Added Member To Class: ClassName=IMU Member=Component C40 100nF
+Added Member To Class: ClassName=Ethernet Member=Component C43 10pF
+Added Member To Class: ClassName=Ethernet Member=Component C45 22nF
+Added Member To Class: ClassName=Ethernet Member=Component C47 10uF
+Added Member To Class: ClassName=Ethernet Member=Component C49 22pF
+Added Member To Class: ClassName=Ethernet Member=Component C51 100nF
+Added Member To Class: ClassName=Ethernet Member=Component C53 100nF
+Added Member To Class: ClassName=USB Member=Component C55 100nF
+Added Member To Class: ClassName=FPGA Member=Component C59 100nF
+Added Member To Class: ClassName=FPGA Member=Component C61 100nF
+Added Member To Class: ClassName=FPGA Member=Component C63 100nF
+Added Member To Class: ClassName=FPGA Member=Component C65 100nF
+Added Member To Class: ClassName=FPGA Member=Component C67 100nF
+Added Member To Class: ClassName=FPGA Member=Component C69 100nF
+Added Member To Class: ClassName=FPGA Member=Component C71 100nF
+Added Member To Class: ClassName=FPGA Member=Component C73 100nF
+Added Member To Class: ClassName=FPGA Member=Component C75 100nF
+Added Member To Class: ClassName=FPGA Member=Component C77 100nF
+Added Member To Class: ClassName=FPGA Member=Component C79 100nF
+Added Member To Class: ClassName=FPGA Member=Component C81 100nF
+Added Member To Class: ClassName=FPGA Member=Component C83 100nF
+Added Member To Class: ClassName=FPGA Member=Component C85 100nF
+Added Member To Class: ClassName=FPGA Member=Component C87 100nF
+Added Member To Class: ClassName=FPGA Member=Component C89 100nF
+Added Member To Class: ClassName=FPGA Member=Component C90 100nF
+Added Member To Class: ClassName=FPGA Member=Component C100 100nF
+Added Member To Class: ClassName=FPGA Member=Component C101 100nF
+Added Member To Class: ClassName=FPGA Member=Component C103 100nF
+Added Member To Class: ClassName=FPGA Member=Component C105 100nF
+Added Member To Class: ClassName=FPGA Member=Component C106 100nF
+Added Member To Class: ClassName=FPGA Member=Component C107 100nF
+Added Member To Class: ClassName=FPGA Member=Component C109 100nF
+Added Member To Class: ClassName=FPGA Member=Component C111 100nF
+Added Member To Class: ClassName=FPGA Member=Component C113 100nF
+Added Member To Class: ClassName=FPGA Member=Component C115 100nF
+Added Member To Class: ClassName=FPGA Member=Component C117 100nF
+Added Member To Class: ClassName=FPGA Member=Component C119 100nF
+Added Member To Class: ClassName=FPGA Member=Component C121 100nF
+Added Member To Class: ClassName=FPGA Member=Component C123 100nF
+Added Member To Class: ClassName=FPGA Member=Component C125 100nF
+Added Member To Class: ClassName=STM32 Member=Component C127 100nF
+Added Member To Class: ClassName=STM32 Member=Component C129 100nF
+Added Member To Class: ClassName=STM32 Member=Component C131 100nF
+Added Member To Class: ClassName=STM32 Member=Component C133 100nF
+Added Member To Class: ClassName=STM32 Member=Component C135 100nF
+Added Member To Class: ClassName=STM32 Member=Component C137 100nF
+Added Member To Class: ClassName=STM32 Member=Component C139 100nF
+Added Member To Class: ClassName=STM32 Member=Component C141 100nF
+Added Member To Class: ClassName=STM32 Member=Component C143 22pF
+Added Member To Class: ClassName=STM32 Member=Component C144 100nF
+Added Member To Class: ClassName=FPGA Member=Component C147 100nF
+Added Member To Class: ClassName=Power Member=Component R10 10K
+Added Member To Class: ClassName=Power Member=Component R15 100K
+Added Member To Class: ClassName=Power Member=Component R26 1.8M
+Added Member To Class: ClassName=Power Member=Component R32 12¦¸
+Added Member To Class: ClassName=Ethernet Member=Component R37 49.9
+Added Member To Class: ClassName=FPGA Member=Component R58 33¦¸
+Added Member To Class: ClassName=STM32 Member=Component R61 10K
+Added Member To Class: ClassName=NRF24L01 Member=Component R63 0¦¸
+Added Member To Class: ClassName=Power Member=Component U2 LM5116MH
+Added Member To Class: ClassName=Power Member=Component U4 MP1471A
+Added Member To Class: ClassName=Power Member=Component U7 AMC1035
+Added Member To Class: ClassName=IMU Member=Component U9 MPU9250
+Added Member To Class: ClassName=Ethernet Member=Component U11 LAN8720A
+Added Member To Class: ClassName=FPGA Member=Component U13 EP4CE115F23C8
+Added Member To Class: ClassName=NRF24L01 Member=Component U16 NRF24L01+

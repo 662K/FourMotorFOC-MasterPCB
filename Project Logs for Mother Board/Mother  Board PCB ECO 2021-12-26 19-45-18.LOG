@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=SDa_D4 Pin=U13-P20
+Added Pin To Net: NetName=SDb_D4 Pin=U13-R19
+Added Pin To Net: NetName=INa_D4 Pin=U13-R20
+Added Pin To Net: NetName=SDc_D4 Pin=U13-T19
+Added Pin To Net: NetName=INb_D4 Pin=U13-T20
+Added Pin To Net: NetName=INc_D4 Pin=U13-U20

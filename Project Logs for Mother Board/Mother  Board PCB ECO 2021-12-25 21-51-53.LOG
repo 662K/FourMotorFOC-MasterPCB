@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=USB1-A1
+Removed Pin From Net: NetName=USB_5V Pin=USB1-A4
+Removed Pin From Net: NetName=USB_D_P Pin=USB1-A6
+Removed Pin From Net: NetName=USB_D_N Pin=USB1-A7
+Removed Pin From Net: NetName=USB_5V Pin=USB1-B9
+Removed Pin From Net: NetName=GND Pin=USB1-B12
+Removed Member From Class: ClassName=USB Member=USB1
+Added Member To Class: ClassName=Power Member=Component JP3 XT60PM

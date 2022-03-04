@@ -1,0 +1,9 @@
+Change Component Comment : Designator=R64 Old Comment=1M New Comment=3.3M
+Added Component: Designator=C148(C1206)
+Added Component: Designator=R65(R1206)
+Added Pin To Net: NetName=GND Pin=C148-1
+Added Pin To Net: NetName=EARTH1_D3 Pin=C148-2
+Added Pin To Net: NetName=EARTH1_D3 Pin=R65-1
+Added Pin To Net: NetName=GND Pin=R65-2
+Added Member To Class: ClassName=Mother Board Main Member=Component C148 1nF/2000V
+Added Member To Class: ClassName=Mother Board Main Member=Component R65 3.3M

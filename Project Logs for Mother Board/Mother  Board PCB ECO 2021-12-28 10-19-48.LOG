@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=EARTH1 Pin=USB1-3
+Added Pin To Net: NetName=EARTH1 Pin=USB1-4
+Change Net Name : Old Net Name=EARTH1 New Net Name=EARTH
+Added Pin To Net: NetName=EARTH1 Pin=U10-14
+Added Net: Name=EARTH1

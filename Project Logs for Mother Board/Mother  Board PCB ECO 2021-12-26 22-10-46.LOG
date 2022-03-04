@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=CLK50M Pin=U13-AB11
+Added Pin To Net: NetName=CLK50M Pin=U13-A11

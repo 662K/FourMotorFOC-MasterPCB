@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C64-1
+Removed Pin From Net: NetName=3V3 Pin=C64-2
+Removed Pin From Net: NetName=GND Pin=C70-1
+Removed Pin From Net: NetName=3V3 Pin=C70-2
+Removed Pin From Net: NetName=GND Pin=C71-1
+Removed Pin From Net: NetName=3V3 Pin=C71-2
+Removed Pin From Net: NetName=GND Pin=C72-1
+Removed Pin From Net: NetName=3V3 Pin=C72-2
+Removed Member From Class: ClassName=FPGA Member=C64
+Removed Member From Class: ClassName=FPGA Member=C70
+Removed Member From Class: ClassName=FPGA Member=C71
+Removed Member From Class: ClassName=FPGA Member=C72

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=FSMC_D1 Pin=U13-AA13
+Added Pin To Net: NetName=FSMC_D15 Pin=U13-AA14
+Added Pin To Net: NetName=FSMC_A9 Pin=U13-AA15
+Added Pin To Net: NetName=FSMC_D0 Pin=U13-AB13
+Added Pin To Net: NetName=FSMC_D14 Pin=U13-AB14
+Added Pin To Net: NetName=FSMC_D13 Pin=U13-AB15
+Added Pin To Net: NetName=FSMC_A6 Pin=U13-Y13
+Added Pin To Net: NetName=FSMC_A7 Pin=U13-Y14
+Added Pin To Net: NetName=FSMC_A8 Pin=U13-Y15
+Added Member To Class: ClassName=FPGA Member=Component C82 100nF

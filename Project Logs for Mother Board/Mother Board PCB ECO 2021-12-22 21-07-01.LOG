@@ -1,0 +1,17 @@
+Added Component: Designator=U1(MSOP10)
+Added Component: Designator=U1(HC-42)
+Added Pin To Net: NetName=Bluetooth TXD Pin=U1-1
+Added Pin To Net: NetName=USB_D_P Pin=U1-1
+Added Pin To Net: NetName=Bluetooth RXD Pin=U1-2
+Added Pin To Net: NetName=USB_D_N Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=USB_5V Pin=U1-7
+Added Pin To Net: NetName=USB TXD Pin=U1-8
+Added Pin To Net: NetName=USB RXD Pin=U1-9
+Added Pin To Net: NetName=NetC40_1 Pin=U1-10
+Added Pin To Net: NetName=3V3 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=Bluetooth_LED Pin=U1-16
+Added Pin To Net: NetName=Bluetooth KEY Pin=U1-18
+Added Member To Class: ClassName=Bluetooth Member=Component U1 HC-42
+Added Member To Class: ClassName=USB Member=Component U1 CH340E

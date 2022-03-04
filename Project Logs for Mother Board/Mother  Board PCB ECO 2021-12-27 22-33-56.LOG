@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NRF MISO Pin=U15-28
+Added Pin To Net: NetName=NRF MOSI Pin=U15-29
+Added Pin To Net: NetName=NRF SCK Pin=U15-69

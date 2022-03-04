@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=5V Pin=JP3-1
+Removed Pin From Net: NetName=5V Pin=JP3-1
+Removed Pin From Net: NetName=PGND Pin=JP3-2
+Removed Pin From Net: NetName=PGND Pin=JP3-2
+Removed Pin From Net: NetName=Vpower Pin=JP4-1
+Removed Pin From Net: NetName=Vpower Pin=JP4-1
+Removed Pin From Net: NetName=PGND Pin=JP4-2
+Removed Pin From Net: NetName=PGND Pin=JP4-2
+Added Pin To Net: NetName=PGND Pin=JP3-1
+Added Pin To Net: NetName=PGND Pin=JP3-1
+Added Pin To Net: NetName=5V Pin=JP3-2
+Added Pin To Net: NetName=5V Pin=JP3-2
+Added Pin To Net: NetName=PGND Pin=JP4-1
+Added Pin To Net: NetName=PGND Pin=JP4-1
+Added Pin To Net: NetName=Vpower Pin=JP4-2
+Added Pin To Net: NetName=Vpower Pin=JP4-2
